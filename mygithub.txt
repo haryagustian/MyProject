@@ -1,3 +1,4 @@
 FUTURE PROJECT
 - membuat video
 - membuat platform
+- membuat forum
